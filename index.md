@@ -9,8 +9,7 @@ Understanding the human experience is essential for creating useful and effectiv
 ‍
 In my spare time I enjoy traveling, watching Series, and buying more books than I have time to read (there’s actually a word for this).
 
-
-  # My Skills
+# My Skills
 - WordPress
 - Figma
 # Some Technical Skills
